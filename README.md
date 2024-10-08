@@ -1,1 +1,3 @@
-# StatisticalLearningModels
+This work is my final project for Introduction to Statistical Learning, or STA 363, at Wake Forest University.
+
+The Final Project PDF is an example of performing higher level statistical analysis on Baseball Savant data. While the result of the analysis is relatively intuitive for hardcore baseball fans, this project allowed me to perform methods like KNN, Elastic Net, and Random Forest to analyze baseball data. This also shows my thought process on how to handle different situations such as communicating with a team of other data analysts vs. communicating with a coaching staff or players. The code behind these methods can be seen in the supporting RMD file.
